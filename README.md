@@ -1,4 +1,4 @@
-# One-bit-over-the-air-computation
+# One-bit over-the-air computation
 
 Two experiments are conducted
 1) CNN on MNIST dataset
